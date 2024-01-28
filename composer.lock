@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a1dd06d37d1ace94a40cdf42418c6bd7",
+    "content-hash": "2d5a45e4758974d260d47f69bee493d4",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -1448,16 +1448,16 @@
         },
         {
             "name": "pavloshyp/product-management-bundle",
-            "version": "1.0.9",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pavloshyp/ProductManagementBundle.git",
-                "reference": "8e5d8e186f28cc06af536b3e7b099f38d5b1451e"
+                "reference": "26a83c98311a765020428eccfd2cde1d95e805d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pavloshyp/ProductManagementBundle/zipball/8e5d8e186f28cc06af536b3e7b099f38d5b1451e",
-                "reference": "8e5d8e186f28cc06af536b3e7b099f38d5b1451e",
+                "url": "https://api.github.com/repos/pavloshyp/ProductManagementBundle/zipball/26a83c98311a765020428eccfd2cde1d95e805d9",
+                "reference": "26a83c98311a765020428eccfd2cde1d95e805d9",
                 "shasum": ""
             },
             "require": {
@@ -1513,10 +1513,10 @@
             ],
             "description": "Product Management Bundle for Symfony projects.",
             "support": {
-                "source": "https://github.com/pavloshyp/ProductManagementBundle/tree/1.0.9",
+                "source": "https://github.com/pavloshyp/ProductManagementBundle/tree/1.0.0",
                 "issues": "https://github.com/pavloshyp/ProductManagementBundle/issues"
             },
-            "time": "2024-01-28T08:06:07+00:00"
+            "time": "2024-01-28T10:19:09+00:00"
         },
         {
             "name": "php-amqplib/php-amqplib",
